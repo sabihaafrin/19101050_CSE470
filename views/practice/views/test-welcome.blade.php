@@ -1,0 +1,1 @@
+<h1>EXO Hospital Management System</h1>
